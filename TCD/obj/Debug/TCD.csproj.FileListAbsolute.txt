@@ -1,0 +1,40 @@
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\bin\Debug\TCD.exe.config
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\bin\Debug\TCD.exe
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\bin\Debug\TCD.pdb
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.csprojResolveAssemblyReference.cache
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.frmDados.resources
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.Properties.Resources.resources
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.csproj.GenerateResource.Cache
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.exe
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.pdb
+c:\users\tws\documents\visual studio 2012\Projects\TCD\TCD\obj\Debug\TCD.frmJogo.resources
+C:\Users\tws\Desktop\TCD\TCD\TCD\bin\Debug\TCD.exe.config
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.exe
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.pdb
+C:\Users\tws\Desktop\TCD\TCD\TCD\bin\Debug\TCD.exe
+C:\Users\tws\Desktop\TCD\TCD\TCD\bin\Debug\TCD.pdb
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.csprojResolveAssemblyReference.cache
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.frmDados.resources
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.frmJogo.resources
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.Properties.Resources.resources
+C:\Users\tws\Desktop\TCD\TCD\TCD\obj\Debug\TCD.csproj.GenerateResource.Cache
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\bin\Debug\TCD.exe.config
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.exe
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.pdb
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\bin\Debug\TCD.exe
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\bin\Debug\TCD.pdb
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.csprojResolveAssemblyReference.cache
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.frmDados.resources
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.frmJogo.resources
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.Properties.Resources.resources
+C:\Users\tws\Desktop\TCD\Programa\TCD\TCD\obj\Debug\TCD.csproj.GenerateResource.Cache
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\bin\Debug\TCD.exe.config
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.exe
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.pdb
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\bin\Debug\TCD.exe
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\bin\Debug\TCD.pdb
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.csprojResolveAssemblyReference.cache
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.frmDados.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.frmJogo.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.Properties.Resources.resources
+D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.csproj.GenerateResource.Cache
