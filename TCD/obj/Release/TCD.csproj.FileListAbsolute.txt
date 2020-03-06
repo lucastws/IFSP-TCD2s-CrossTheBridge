@@ -1,0 +1,10 @@
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\bin\Release\TCD.exe.config
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\bin\Release\TCD.exe
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\bin\Release\TCD.pdb
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.csprojResolveAssemblyReference.cache
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.frmDados.resources
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.frmJogo.resources
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.Properties.Resources.resources
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.csproj.GenerateResource.Cache
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.exe
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Release\TCD.pdb

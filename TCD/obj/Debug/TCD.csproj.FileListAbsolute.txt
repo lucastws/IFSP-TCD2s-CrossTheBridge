@@ -38,3 +38,6 @@ D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\o
 D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.frmJogo.resources
 D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.Properties.Resources.resources
 D:\Faculdade\2s-2018\Linguagem de Programacao 1\TCD - Projeto\Programa\TCD\TCD\obj\Debug\TCD.csproj.GenerateResource.Cache
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\bin\Debug\TCD.exe.config
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Debug\TCD.exe
+C:\wamp64\www\TCD2s-CrossTheBridge\TCD\obj\Debug\TCD.pdb
